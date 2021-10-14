@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  this-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-14T23:06:06.706939+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 56b82658d8cd294a1d6db08a2c5fdba20d626d00f573806052b30cadd84c54ce
+    name: this-chart
+    type: application
+    urls:
+    - https://mskadush.github.io/httpbin-mapping-helm-chart/this-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-14T23:06:06.704638+02:00"
